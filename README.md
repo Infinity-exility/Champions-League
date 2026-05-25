@@ -20,9 +20,3 @@ O sistema simula funcionalidades relacionadas à uma Champions League, permitind
 
 O objetivo deste projeto é fortalecer conhecimentos em programação e resolução de problemas através de desafios práticos inspirados em cenários esportivos.
 
-## Como executar
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/Infinity-exility/Champions-League.git
